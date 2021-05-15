@@ -1,0 +1,10 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is 922A-CF94
+
+ Directory of E:\Blog\Posts\GIT\MyProject
+
+05/15/2021  11:47 AM    <DIR>          .
+05/15/2021  11:47 AM    <DIR>          ..
+05/15/2021  11:47 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  191,858,814,976 bytes free
